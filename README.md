@@ -10,6 +10,9 @@
 - **skills/business-specification/SKILL.md**：业务规格设计。
 - **skills/product-design-prd/SKILL.md**：产品方案与PRD。
 - **skills/product-review/SKILL.md**：产品方案评审。
+- **skills/b2b-interaction-design/SKILL.md**：B 端交互设计与一致性规范。
+- **skills/b2b-business-logic/SKILL.md**：原型业务状态、门禁与跨模块数据联动。
+- **skills/prototype-quality-audit/SKILL.md**：已实现原型的需求追踪、实测证据与回归审计。
 
 每个 Skill 都是完整、独立的工作单元。**不存在必须先调用其他 Skill 的顺序**；不要求读取其他文件夹、历史项目或个人规则；不内置训练模式。
 
